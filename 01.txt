@@ -9,8 +9,12 @@ ola
 meu
 rap do mine craft
 rap do mine craft
+<<<<<<< HEAD
 
 mane craft
 
 o loquinho meu onichan
 
+=======
+mane craft
+>>>>>>> master
