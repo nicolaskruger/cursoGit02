@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 git shit
+=======
+ola
+meu
+>>>>>>> babf8e8edb0b798302f4a108fc8bb058dfe71e23
